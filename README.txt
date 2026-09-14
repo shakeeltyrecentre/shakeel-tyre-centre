@@ -12,3 +12,4 @@ Upload the three files to the document root of shakeeltyre.com.
 
 ## Next improvements
 Replace the CSS tyre artwork with the shop's real photos, add verified opening hours, exact map coordinates, WhatsApp, tyre brands/sizes, and additional verified reviews.
+Cloudflare deployment update
